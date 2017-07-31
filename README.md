@@ -1,2 +1,2 @@
-# Shooting_Game_Visual_Studio_6
+# Shooting_Game_CPP
 An C++ based game. Done by Visual Studio 6 and iGraphics header file.
